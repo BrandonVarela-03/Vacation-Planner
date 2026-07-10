@@ -15,7 +15,7 @@ public class Planner{
     String[] names = new String[27];
     String[] category = new String[27];
     int[] price = new int[27];
-    loadData("Vacation_planner.txt", names, category,  price);
+    loadData("Vacation_Planner.txt", names, category,  price);
     //Switch
     Scanner in = new Scanner(System.in);
     int choice = 0;
