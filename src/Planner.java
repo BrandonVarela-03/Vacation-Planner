@@ -203,7 +203,7 @@ public class Planner{
 // First Menu
 public static void printMenu() {
     //Code Goes here
-    System.out.println("====== Miner Vacation Travel ======");
+    System.out.println("====== Vacation Travel ======");
     System.out.println("1. Order");
     System.out.println("2. View Cart");
     System.out.println("3. Manage Order");
